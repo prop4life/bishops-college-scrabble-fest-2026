@@ -1,5 +1,5 @@
 const REPO='prop4life/bishops-college-scrabble-fest-2026';
-const BRANCH='main-/-(root)';
+const BRANCH='main';
 const API=`https://api.github.com/repos/${REPO}`;
 const CFG={u12:{name:'Under 12',folder:'u12',rounds:6},u15:{name:'Under 15',folder:'u15',rounds:6},u20:{name:'Under 20',folder:'u20',rounds:6}};
 const $=id=>document.getElementById(id),token=$('token'),event=$('event'),round=$('round'),file=$('file'),msg=$('msg');
