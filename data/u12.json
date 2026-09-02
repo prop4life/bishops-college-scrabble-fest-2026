@@ -1,1 +1,1166 @@
-{"event":"u12","players":{}}
+{
+  "event": "u12",
+  "updated": "2026-09-02T19:48:38.481Z",
+  "players": {
+    "1": {
+      "id": "1",
+      "name": "SIHINA, EKANAYAKE",
+      "rank": 46,
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "spread": -79,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "22",
+          "opponentName": "CHANSILUNI, DISSANAYAKE",
+          "result": "L",
+          "score": 145,
+          "oppScore": 224,
+          "spread": -79
+        }
+      ]
+    },
+    "2": {
+      "id": "2",
+      "name": "HAFSA, MUBBASIR",
+      "rank": 7,
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "spread": 141,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "9",
+          "opponentName": "DANIDU, RANAWEERA",
+          "result": "W",
+          "score": 171,
+          "oppScore": 30,
+          "spread": 141
+        }
+      ]
+    },
+    "3": {
+      "id": "3",
+      "name": "MANEESHA, RATHNAYAKE",
+      "rank": 4,
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "spread": 177,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "52",
+          "opponentName": "YUNELI, PRATHAPASINGHE",
+          "result": "W",
+          "score": 312,
+          "oppScore": 135,
+          "spread": 177
+        }
+      ]
+    },
+    "4": {
+      "id": "4",
+      "name": "AWWAB",
+      "rank": 27,
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "spread": 11,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "23",
+          "opponentName": "THANULI, DINANDEE",
+          "result": "W",
+          "score": 164,
+          "oppScore": 153,
+          "spread": 11
+        }
+      ]
+    },
+    "5": {
+      "id": "5",
+      "name": "BINADEE, PREMACHANDRA",
+      "rank": 50,
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "spread": -135,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "58",
+          "opponentName": "SAMADHI, WIMALAKEERTHI",
+          "result": "L",
+          "score": 115,
+          "oppScore": 250,
+          "spread": -135
+        }
+      ]
+    },
+    "6": {
+      "id": "6",
+      "name": "EMEESHA, RUPASINGHE",
+      "rank": 48,
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "spread": -121,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "19",
+          "opponentName": "AIDHA, NAFEEL",
+          "result": "L",
+          "score": 91,
+          "oppScore": 212,
+          "spread": -121
+        }
+      ]
+    },
+    "7": {
+      "id": "7",
+      "name": "PAMODI, DESILVA",
+      "rank": 39,
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "spread": -31,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "54",
+          "opponentName": "DINITHI, RIHANSA",
+          "result": "L",
+          "score": 79,
+          "oppScore": 110,
+          "spread": -31
+        }
+      ]
+    },
+    "8": {
+      "id": "8",
+      "name": "VIHARI, JAYANATH",
+      "rank": 23,
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "spread": 27,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "43",
+          "opponentName": "UGOV, WIJERATHNA",
+          "result": "W",
+          "score": 84,
+          "oppScore": 57,
+          "spread": 27
+        }
+      ]
+    },
+    "9": {
+      "id": "9",
+      "name": "DANIDU, RANAWEERA",
+      "rank": 52,
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "spread": -141,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "2",
+          "opponentName": "HAFSA, MUBBASIR",
+          "result": "L",
+          "score": 30,
+          "oppScore": 171,
+          "spread": -141
+        }
+      ]
+    },
+    "10": {
+      "id": "10",
+      "name": "MOHAMED, ATHEEK",
+      "rank": 27,
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "spread": 11,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "17",
+          "opponentName": "UPULMEE, TENNAKOON",
+          "result": "W",
+          "score": 62,
+          "oppScore": 51,
+          "spread": 11
+        }
+      ]
+    },
+    "11": {
+      "id": "11",
+      "name": "AYAAN, RAHUMAN",
+      "rank": 45,
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "spread": -70,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "57",
+          "opponentName": "INDUMINI, KAUSHALYA",
+          "result": "L",
+          "score": 11,
+          "oppScore": 81,
+          "spread": -70
+        }
+      ]
+    },
+    "12": {
+      "id": "12",
+      "name": "ANSALEEN, MEDERIGAMA",
+      "rank": 54,
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "spread": -176,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "31",
+          "opponentName": "INSARI, WARNASURIYA",
+          "result": "L",
+          "score": 151,
+          "oppScore": 327,
+          "spread": -176
+        }
+      ]
+    },
+    "13": {
+      "id": "13",
+      "name": "LUQMAAN, FAIZAL",
+      "rank": 25,
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "spread": 20,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "48",
+          "opponentName": "AGDN, SIRIWARDHANA",
+          "result": "W",
+          "score": 56,
+          "oppScore": 36,
+          "spread": 20
+        }
+      ]
+    },
+    "14": {
+      "id": "14",
+      "name": "DION, EKANAYAKE",
+      "rank": 47,
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "spread": -108,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "30",
+          "opponentName": "MRF, SALIHA",
+          "result": "L",
+          "score": 137,
+          "oppScore": 245,
+          "spread": -108
+        }
+      ]
+    },
+    "15": {
+      "id": "15",
+      "name": "SEJAN, BEDDEWELA",
+      "rank": 35,
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "spread": -25,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "39",
+          "opponentName": "DINUJAYA, BANDARA",
+          "result": "L",
+          "score": 88,
+          "oppScore": 113,
+          "spread": -25
+        }
+      ]
+    },
+    "16": {
+      "id": "16",
+      "name": "UPEKYA, AMARASINGHE",
+      "rank": 44,
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "spread": -68,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "36",
+          "opponentName": "MATHISHA, HASELI",
+          "result": "L",
+          "score": 45,
+          "oppScore": 113,
+          "spread": -68
+        }
+      ]
+    },
+    "17": {
+      "id": "17",
+      "name": "UPULMEE, TENNAKOON",
+      "rank": 31,
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "spread": -11,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "10",
+          "opponentName": "MOHAMED, ATHEEK",
+          "result": "L",
+          "score": 51,
+          "oppScore": 62,
+          "spread": -11
+        }
+      ]
+    },
+    "18": {
+      "id": "18",
+      "name": "GEHANSA, NAUSHALI PIYASINGHE",
+      "rank": 18,
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "spread": 52,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "45",
+          "opponentName": "NETHUSA, RATHNAYAKE",
+          "result": "W",
+          "score": 90,
+          "oppScore": 38,
+          "spread": 52
+        }
+      ]
+    },
+    "19": {
+      "id": "19",
+      "name": "AIDHA, NAFEEL",
+      "rank": 11,
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "spread": 121,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "6",
+          "opponentName": "EMEESHA, RUPASINGHE",
+          "result": "W",
+          "score": 212,
+          "oppScore": 91,
+          "spread": 121
+        }
+      ]
+    },
+    "20": {
+      "id": "20",
+      "name": "CHATHUMINI, GUNASENA",
+      "rank": 1,
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "spread": 200,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "28",
+          "opponentName": "KINOLEE, WERAGODA",
+          "result": "W",
+          "score": 310,
+          "oppScore": 91,
+          "spread": 200
+        }
+      ]
+    },
+    "21": {
+      "id": "21",
+      "name": "DHIVJAH, NIROSHAN",
+      "rank": 22,
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "spread": 28,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "50",
+          "opponentName": "SEHANSA, RAJAPAKSHA",
+          "result": "W",
+          "score": 89,
+          "oppScore": 61,
+          "spread": 28
+        }
+      ]
+    },
+    "22": {
+      "id": "22",
+      "name": "CHANSILUNI, DISSANAYAKE",
+      "rank": 13,
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "spread": 79,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "1",
+          "opponentName": "SIHINA, EKANAYAKE",
+          "result": "W",
+          "score": 224,
+          "oppScore": 145,
+          "spread": 79
+        }
+      ]
+    },
+    "23": {
+      "id": "23",
+      "name": "THANULI, DINANDEE",
+      "rank": 31,
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "spread": -11,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "4",
+          "opponentName": "AWWAB",
+          "result": "L",
+          "score": 153,
+          "oppScore": 164,
+          "spread": -11
+        }
+      ]
+    },
+    "24": {
+      "id": "24",
+      "name": "AKSHARA, KRISHNAPRADEEP",
+      "rank": 18,
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "spread": 52,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "25",
+          "opponentName": "SARAH, ZAINAB",
+          "result": "W",
+          "score": 209,
+          "oppScore": 157,
+          "spread": 52
+        }
+      ]
+    },
+    "25": {
+      "id": "25",
+      "name": "SARAH, ZAINAB",
+      "rank": 40,
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "spread": -52,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "24",
+          "opponentName": "AKSHARA, KRISHNAPRADEEP",
+          "result": "L",
+          "score": 157,
+          "oppScore": 209,
+          "spread": -52
+        }
+      ]
+    },
+    "26": {
+      "id": "26",
+      "name": "NIKINI, AMAYA",
+      "rank": 8,
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "spread": 135,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "40",
+          "opponentName": "DEWMINI, HERATH",
+          "result": "W",
+          "score": 170,
+          "oppScore": 35,
+          "spread": 135
+        }
+      ]
+    },
+    "27": {
+      "id": "27",
+      "name": "ARALIYA, ABAYAKOON",
+      "rank": 26,
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "spread": 16,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "49",
+          "opponentName": "RIVINULI, INDRANAYAKE",
+          "result": "W",
+          "score": 173,
+          "oppScore": 157,
+          "spread": 16
+        }
+      ]
+    },
+    "28": {
+      "id": "28",
+      "name": "KINOLEE, WERAGODA",
+      "rank": 56,
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "spread": -200,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "20",
+          "opponentName": "CHATHUMINI, GUNASENA",
+          "result": "L",
+          "score": 91,
+          "oppScore": 310,
+          "spread": -200
+        }
+      ]
+    },
+    "29": {
+      "id": "29",
+      "name": "AKITHRA, WARNAKULA",
+      "rank": 43,
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "spread": -56,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "35",
+          "opponentName": "ACY, JAYAWEERA",
+          "result": "L",
+          "score": 98,
+          "oppScore": 154,
+          "spread": -56
+        }
+      ]
+    },
+    "30": {
+      "id": "30",
+      "name": "MRF, SALIHA",
+      "rank": 12,
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "spread": 108,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "14",
+          "opponentName": "DION, EKANAYAKE",
+          "result": "W",
+          "score": 245,
+          "oppScore": 137,
+          "spread": 108
+        }
+      ]
+    },
+    "31": {
+      "id": "31",
+      "name": "INSARI, WARNASURIYA",
+      "rank": 5,
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "spread": 176,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "12",
+          "opponentName": "ANSALEEN, MEDERIGAMA",
+          "result": "W",
+          "score": 327,
+          "oppScore": 151,
+          "spread": 176
+        }
+      ]
+    },
+    "32": {
+      "id": "32",
+      "name": "NILUPULI, PAYAGALAGE",
+      "rank": 21,
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "spread": 30,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "44",
+          "opponentName": "AML, DISSANAYAKA",
+          "result": "W",
+          "score": 53,
+          "oppScore": 23,
+          "spread": 30
+        }
+      ]
+    },
+    "33": {
+      "id": "33",
+      "name": "HAFSA, FOWZIE",
+      "rank": 6,
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "spread": 167,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "41",
+          "opponentName": "VIMUKTHISARA, BANDARA",
+          "result": "W",
+          "score": 179,
+          "oppScore": 12,
+          "spread": 167
+        }
+      ]
+    },
+    "34": {
+      "id": "34",
+      "name": "ABV, JAYAWEERA",
+      "rank": 10,
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "spread": 125,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "56",
+          "opponentName": "SANDUNIKA, HIMAYANGANI",
+          "result": "W",
+          "score": 277,
+          "oppScore": 152,
+          "spread": 125
+        }
+      ]
+    },
+    "35": {
+      "id": "35",
+      "name": "ACY, JAYAWEERA",
+      "rank": 16,
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "spread": 56,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "29",
+          "opponentName": "AKITHRA, WARNAKULA",
+          "result": "W",
+          "score": 154,
+          "oppScore": 98,
+          "spread": 56
+        }
+      ]
+    },
+    "36": {
+      "id": "36",
+      "name": "MATHISHA, HASELI",
+      "rank": 15,
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "spread": 68,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "16",
+          "opponentName": "UPEKYA, AMARASINGHE",
+          "result": "W",
+          "score": 113,
+          "oppScore": 45,
+          "spread": 68
+        }
+      ]
+    },
+    "37": {
+      "id": "37",
+      "name": "POOJYA, INDUWARI",
+      "rank": 1,
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "spread": 200,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "47",
+          "opponentName": "MINIDU, HANSANA",
+          "result": "W",
+          "score": 412,
+          "oppScore": 43,
+          "spread": 200
+        }
+      ]
+    },
+    "38": {
+      "id": "38",
+      "name": "MINUGA, WIJERATHNA",
+      "rank": 42,
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "spread": -53,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "53",
+          "opponentName": "DIMANSA, EHALAMALPE",
+          "result": "L",
+          "score": 73,
+          "oppScore": 126,
+          "spread": -53
+        }
+      ]
+    },
+    "39": {
+      "id": "39",
+      "name": "DINUJAYA, BANDARA",
+      "rank": 24,
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "spread": 25,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "15",
+          "opponentName": "SEJAN, BEDDEWELA",
+          "result": "W",
+          "score": 113,
+          "oppScore": 88,
+          "spread": 25
+        }
+      ]
+    },
+    "40": {
+      "id": "40",
+      "name": "DEWMINI, HERATH",
+      "rank": 50,
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "spread": -135,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "26",
+          "opponentName": "NIKINI, AMAYA",
+          "result": "L",
+          "score": 35,
+          "oppScore": 170,
+          "spread": -135
+        }
+      ]
+    },
+    "41": {
+      "id": "41",
+      "name": "VIMUKTHISARA, BANDARA",
+      "rank": 53,
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "spread": -167,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "33",
+          "opponentName": "HAFSA, FOWZIE",
+          "result": "L",
+          "score": 12,
+          "oppScore": 179,
+          "spread": -167
+        }
+      ]
+    },
+    "42": {
+      "id": "42",
+      "name": "DHANUDDHARA, JAYAWICKRAMA",
+      "rank": 30,
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "spread": -7,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "51",
+          "opponentName": "SANUMITHA, LANKESHWARA",
+          "result": "L",
+          "score": 97,
+          "oppScore": 104,
+          "spread": -7
+        }
+      ]
+    },
+    "43": {
+      "id": "43",
+      "name": "UGOV, WIJERATHNA",
+      "rank": 36,
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "spread": -27,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "8",
+          "opponentName": "VIHARI, JAYANATH",
+          "result": "L",
+          "score": 57,
+          "oppScore": 84,
+          "spread": -27
+        }
+      ]
+    },
+    "44": {
+      "id": "44",
+      "name": "AML, DISSANAYAKA",
+      "rank": 38,
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "spread": -30,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "32",
+          "opponentName": "NILUPULI, PAYAGALAGE",
+          "result": "L",
+          "score": 23,
+          "oppScore": 53,
+          "spread": -30
+        }
+      ]
+    },
+    "45": {
+      "id": "45",
+      "name": "NETHUSA, RATHNAYAKE",
+      "rank": 40,
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "spread": -52,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "18",
+          "opponentName": "GEHANSA, NAUSHALI PIYASINGHE",
+          "result": "L",
+          "score": 38,
+          "oppScore": 90,
+          "spread": -52
+        }
+      ]
+    },
+    "46": {
+      "id": "46",
+      "name": "NILESH, GUNAWARDHANA",
+      "rank": 56,
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "spread": -200,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "55",
+          "opponentName": "MANUTHIMA, INDUWARI",
+          "result": "L",
+          "score": 52,
+          "oppScore": 937,
+          "spread": -200
+        }
+      ]
+    },
+    "47": {
+      "id": "47",
+      "name": "MINIDU, HANSANA",
+      "rank": 56,
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "spread": -200,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "37",
+          "opponentName": "POOJYA, INDUWARI",
+          "result": "L",
+          "score": 43,
+          "oppScore": 412,
+          "spread": -200
+        }
+      ]
+    },
+    "48": {
+      "id": "48",
+      "name": "AGDN, SIRIWARDHANA",
+      "rank": 34,
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "spread": -20,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "13",
+          "opponentName": "LUQMAAN, FAIZAL",
+          "result": "L",
+          "score": 36,
+          "oppScore": 56,
+          "spread": -20
+        }
+      ]
+    },
+    "49": {
+      "id": "49",
+      "name": "RIVINULI, INDRANAYAKE",
+      "rank": 33,
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "spread": -16,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "27",
+          "opponentName": "ARALIYA, ABAYAKOON",
+          "result": "L",
+          "score": 157,
+          "oppScore": 173,
+          "spread": -16
+        }
+      ]
+    },
+    "50": {
+      "id": "50",
+      "name": "SEHANSA, RAJAPAKSHA",
+      "rank": 37,
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "spread": -28,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "21",
+          "opponentName": "DHIVJAH, NIROSHAN",
+          "result": "L",
+          "score": 61,
+          "oppScore": 89,
+          "spread": -28
+        }
+      ]
+    },
+    "51": {
+      "id": "51",
+      "name": "SANUMITHA, LANKESHWARA",
+      "rank": 29,
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "spread": 7,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "42",
+          "opponentName": "DHANUDDHARA, JAYAWICKRAMA",
+          "result": "W",
+          "score": 104,
+          "oppScore": 97,
+          "spread": 7
+        }
+      ]
+    },
+    "52": {
+      "id": "52",
+      "name": "YUNELI, PRATHAPASINGHE",
+      "rank": 55,
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "spread": -177,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "3",
+          "opponentName": "MANEESHA, RATHNAYAKE",
+          "result": "L",
+          "score": 135,
+          "oppScore": 312,
+          "spread": -177
+        }
+      ]
+    },
+    "53": {
+      "id": "53",
+      "name": "DIMANSA, EHALAMALPE",
+      "rank": 17,
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "spread": 53,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "38",
+          "opponentName": "MINUGA, WIJERATHNA",
+          "result": "W",
+          "score": 126,
+          "oppScore": 73,
+          "spread": 53
+        }
+      ]
+    },
+    "54": {
+      "id": "54",
+      "name": "DINITHI, RIHANSA",
+      "rank": 20,
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "spread": 31,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "7",
+          "opponentName": "PAMODI, DESILVA",
+          "result": "W",
+          "score": 110,
+          "oppScore": 79,
+          "spread": 31
+        }
+      ]
+    },
+    "55": {
+      "id": "55",
+      "name": "MANUTHIMA, INDUWARI",
+      "rank": 1,
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "spread": 200,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "46",
+          "opponentName": "NILESH, GUNAWARDHANA",
+          "result": "W",
+          "score": 937,
+          "oppScore": 52,
+          "spread": 200
+        }
+      ]
+    },
+    "56": {
+      "id": "56",
+      "name": "SANDUNIKA, HIMAYANGANI",
+      "rank": 49,
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "spread": -125,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "34",
+          "opponentName": "ABV, JAYAWEERA",
+          "result": "L",
+          "score": 152,
+          "oppScore": 277,
+          "spread": -125
+        }
+      ]
+    },
+    "57": {
+      "id": "57",
+      "name": "INDUMINI, KAUSHALYA",
+      "rank": 14,
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "spread": 70,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "11",
+          "opponentName": "AYAAN, RAHUMAN",
+          "result": "W",
+          "score": 81,
+          "oppScore": 11,
+          "spread": 70
+        }
+      ]
+    },
+    "58": {
+      "id": "58",
+      "name": "SAMADHI, WIMALAKEERTHI",
+      "rank": 8,
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "spread": 135,
+      "games": [
+        {
+          "round": 1,
+          "opponentId": "5",
+          "opponentName": "BINADEE, PREMACHANDRA",
+          "result": "W",
+          "score": 250,
+          "oppScore": 115,
+          "spread": 135
+        }
+      ]
+    }
+  }
+}
