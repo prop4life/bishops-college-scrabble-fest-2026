@@ -1,15 +1,15 @@
 {
   "event": "u20",
-  "updated": "2026-09-05T08:28:35.291Z",
+  "updated": "2026-09-05T08:30:17.212Z",
   "players": {
     "1": {
       "id": "1",
       "name": "Sayun Dasanayake",
-      "rank": 1,
-      "wins": 1,
+      "rank": 3,
+      "wins": 2,
       "losses": 0,
       "ties": 0,
-      "spread": 200,
+      "spread": 251,
       "games": [
         {
           "round": 1,
@@ -19,17 +19,26 @@
           "score": 505,
           "oppScore": 273,
           "spread": 200
+        },
+        {
+          "round": 2,
+          "opponentId": "16",
+          "opponentName": "Thanuki Galagama",
+          "result": "W",
+          "score": 399,
+          "oppScore": 348,
+          "spread": 51
         }
       ]
     },
     "2": {
       "id": "2",
       "name": "Janiru Jayawardhane",
-      "rank": 1,
-      "wins": 1,
+      "rank": 2,
+      "wins": 2,
       "losses": 0,
       "ties": 0,
-      "spread": 200,
+      "spread": 346,
       "games": [
         {
           "round": 1,
@@ -39,17 +48,26 @@
           "score": 541,
           "oppScore": 312,
           "spread": 200
+        },
+        {
+          "round": 2,
+          "opponentId": "27",
+          "opponentName": "Sheoli Nevinka Chathurni Perera",
+          "result": "W",
+          "score": 461,
+          "oppScore": 315,
+          "spread": 146
         }
       ]
     },
     "3": {
       "id": "3",
       "name": "Kevan Sholem Croos",
-      "rank": 7,
-      "wins": 1,
+      "rank": 6,
+      "wins": 2,
       "losses": 0,
       "ties": 0,
-      "spread": 171,
+      "spread": 225,
       "games": [
         {
           "round": 1,
@@ -59,6 +77,15 @@
           "score": 499,
           "oppScore": 328,
           "spread": 171
+        },
+        {
+          "round": 2,
+          "opponentId": "17",
+          "opponentName": "Sithumdee Yesansa Perera",
+          "result": "W",
+          "score": 519,
+          "oppScore": 465,
+          "spread": 54
         }
       ]
     },
@@ -66,10 +93,10 @@
       "id": "4",
       "name": "Kyaan Perera",
       "rank": 1,
-      "wins": 1,
+      "wins": 2,
       "losses": 0,
       "ties": 0,
-      "spread": 200,
+      "spread": 534,
       "games": [
         {
           "round": 1,
@@ -79,17 +106,26 @@
           "score": 566,
           "oppScore": 217,
           "spread": 200
+        },
+        {
+          "round": 2,
+          "opponentId": "5",
+          "opponentName": "Teshaya Wijesinghe",
+          "result": "W",
+          "score": 551,
+          "oppScore": 217,
+          "spread": 334
         }
       ]
     },
     "5": {
       "id": "5",
       "name": "Teshaya Wijesinghe",
-      "rank": 14,
+      "rank": 28,
       "wins": 1,
-      "losses": 0,
+      "losses": 1,
       "ties": 0,
-      "spread": 50,
+      "spread": -284,
       "games": [
         {
           "round": 1,
@@ -99,17 +135,26 @@
           "score": 257,
           "oppScore": 207,
           "spread": 50
+        },
+        {
+          "round": 2,
+          "opponentId": "4",
+          "opponentName": "Kyaan Perera",
+          "result": "L",
+          "score": 217,
+          "oppScore": 551,
+          "spread": -334
         }
       ]
     },
     "6": {
       "id": "6",
       "name": "Saanya Fernando",
-      "rank": 21,
-      "wins": 0,
+      "rank": 17,
+      "wins": 1,
       "losses": 1,
       "ties": 0,
-      "spread": -43,
+      "spread": 23,
       "games": [
         {
           "round": 1,
@@ -119,17 +164,26 @@
           "score": 357,
           "oppScore": 400,
           "spread": -43
+        },
+        {
+          "round": 2,
+          "opponentId": "19",
+          "opponentName": "Riya Roshan",
+          "result": "W",
+          "score": 423,
+          "oppScore": 357,
+          "spread": 66
         }
       ]
     },
     "7": {
       "id": "7",
       "name": "Anishka Gamage",
-      "rank": 33,
+      "rank": 35,
       "wins": 0,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "spread": -200,
+      "spread": -238,
       "games": [
         {
           "round": 1,
@@ -139,6 +193,15 @@
           "score": 273,
           "oppScore": 505,
           "spread": -200
+        },
+        {
+          "round": 2,
+          "opponentId": "30",
+          "opponentName": "Sesadi Thesanya Thenuwara",
+          "result": "L",
+          "score": 344,
+          "oppScore": 382,
+          "spread": -38
         }
       ]
     },
@@ -165,11 +228,11 @@
     "9": {
       "id": "9",
       "name": "Omiru Nandasiri",
-      "rank": 25,
-      "wins": 0,
+      "rank": 11,
+      "wins": 1,
       "losses": 1,
       "ties": 0,
-      "spread": -53,
+      "spread": 212,
       "games": [
         {
           "round": 1,
@@ -179,17 +242,26 @@
           "score": 388,
           "oppScore": 441,
           "spread": -53
+        },
+        {
+          "round": 2,
+          "opponentId": "34",
+          "opponentName": "Nethara N. Ruwanpathirana",
+          "result": "W",
+          "score": 592,
+          "oppScore": 327,
+          "spread": 265
         }
       ]
     },
     "10": {
       "id": "10",
       "name": "Nethra Bulankulame",
-      "rank": 31,
-      "wins": 0,
+      "rank": 12,
+      "wins": 1,
       "losses": 1,
       "ties": 0,
-      "spread": -171,
+      "spread": 174,
       "games": [
         {
           "round": 1,
@@ -199,17 +271,26 @@
           "score": 328,
           "oppScore": 499,
           "spread": -171
+        },
+        {
+          "round": 2,
+          "opponentId": "20",
+          "opponentName": "Sudarshan Amritha Minela",
+          "result": "W",
+          "score": 526,
+          "oppScore": 181,
+          "spread": 345
         }
       ]
     },
     "11": {
       "id": "11",
       "name": "Ayansa Gunathilaka",
-      "rank": 18,
+      "rank": 24,
       "wins": 1,
-      "losses": 0,
+      "losses": 1,
       "ties": 0,
-      "spread": 5,
+      "spread": -60,
       "games": [
         {
           "round": 1,
@@ -219,17 +300,26 @@
           "score": 384,
           "oppScore": 379,
           "spread": 5
+        },
+        {
+          "round": 2,
+          "opponentId": "26",
+          "opponentName": "Aaqil Abdullah",
+          "result": "L",
+          "score": 334,
+          "oppScore": 399,
+          "spread": -65
         }
       ]
     },
     "12": {
       "id": "12",
       "name": "Dulithi Maranthota",
-      "rank": 10,
-      "wins": 1,
+      "rank": 6,
+      "wins": 2,
       "losses": 0,
       "ties": 0,
-      "spread": 90,
+      "spread": 225,
       "games": [
         {
           "round": 1,
@@ -239,17 +329,26 @@
           "score": 375,
           "oppScore": 285,
           "spread": 90
+        },
+        {
+          "round": 2,
+          "opponentId": "13",
+          "opponentName": "Limandee Sahansa Perera",
+          "result": "W",
+          "score": 466,
+          "oppScore": 331,
+          "spread": 135
         }
       ]
     },
     "13": {
       "id": "13",
       "name": "Limandee Sahansa Perera",
-      "rank": 20,
+      "rank": 30,
       "wins": 0,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "spread": -5,
+      "spread": -140,
       "games": [
         {
           "round": 1,
@@ -259,17 +358,26 @@
           "score": 379,
           "oppScore": 384,
           "spread": -5
+        },
+        {
+          "round": 2,
+          "opponentId": "12",
+          "opponentName": "Dulithi Maranthota",
+          "result": "L",
+          "score": 331,
+          "oppScore": 466,
+          "spread": -135
         }
       ]
     },
     "14": {
       "id": "14",
       "name": "Gihansa Withana Pathirana",
-      "rank": 1,
-      "wins": 1,
+      "rank": 3,
+      "wins": 2,
       "losses": 0,
       "ties": 0,
-      "spread": 200,
+      "spread": 251,
       "games": [
         {
           "round": 1,
@@ -279,17 +387,26 @@
           "score": 505,
           "oppScore": 301,
           "spread": 200
+        },
+        {
+          "round": 2,
+          "opponentId": "15",
+          "opponentName": "Hansi Millawithana",
+          "result": "W",
+          "score": 434,
+          "oppScore": 383,
+          "spread": 51
         }
       ]
     },
     "15": {
       "id": "15",
       "name": "Hansi Millawithana",
-      "rank": 11,
+      "rank": 16,
       "wins": 1,
-      "losses": 0,
+      "losses": 1,
       "ties": 0,
-      "spread": 77,
+      "spread": 26,
       "games": [
         {
           "round": 1,
@@ -299,17 +416,26 @@
           "score": 430,
           "oppScore": 353,
           "spread": 77
+        },
+        {
+          "round": 2,
+          "opponentId": "14",
+          "opponentName": "Gihansa Withana Pathirana",
+          "result": "L",
+          "score": 383,
+          "oppScore": 434,
+          "spread": -51
         }
       ]
     },
     "16": {
       "id": "16",
       "name": "Thanuki Galagama",
-      "rank": 13,
+      "rank": 19,
       "wins": 1,
-      "losses": 0,
+      "losses": 1,
       "ties": 0,
-      "spread": 53,
+      "spread": 2,
       "games": [
         {
           "round": 1,
@@ -319,17 +445,26 @@
           "score": 441,
           "oppScore": 388,
           "spread": 53
+        },
+        {
+          "round": 2,
+          "opponentId": "1",
+          "opponentName": "Sayun Dasanayake",
+          "result": "L",
+          "score": 348,
+          "oppScore": 399,
+          "spread": -51
         }
       ]
     },
     "17": {
       "id": "17",
       "name": "Sithumdee Yesansa Perera",
-      "rank": 17,
+      "rank": 20,
       "wins": 1,
-      "losses": 0,
+      "losses": 1,
       "ties": 0,
-      "spread": 43,
+      "spread": -11,
       "games": [
         {
           "round": 1,
@@ -339,17 +474,26 @@
           "score": 400,
           "oppScore": 357,
           "spread": 43
+        },
+        {
+          "round": 2,
+          "opponentId": "3",
+          "opponentName": "Kevan Sholem Croos",
+          "result": "L",
+          "score": 465,
+          "oppScore": 519,
+          "spread": -54
         }
       ]
     },
     "18": {
       "id": "18",
       "name": "Akshikaa Sudharshan",
-      "rank": 30,
+      "rank": 32,
       "wins": 0,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "spread": -110,
+      "spread": -190,
       "games": [
         {
           "round": 1,
@@ -359,17 +503,26 @@
           "score": 334,
           "oppScore": 444,
           "spread": -110
+        },
+        {
+          "round": 2,
+          "opponentId": "31",
+          "opponentName": "Dinuli Thihasna Wijeweera",
+          "result": "L",
+          "score": 294,
+          "oppScore": 374,
+          "spread": -80
         }
       ]
     },
     "19": {
       "id": "19",
       "name": "Riya Roshan",
-      "rank": 29,
+      "rank": 31,
       "wins": 0,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "spread": -105,
+      "spread": -171,
       "games": [
         {
           "round": 1,
@@ -379,17 +532,26 @@
           "score": 315,
           "oppScore": 420,
           "spread": -105
+        },
+        {
+          "round": 2,
+          "opponentId": "6",
+          "opponentName": "Saanya Fernando",
+          "result": "L",
+          "score": 357,
+          "oppScore": 423,
+          "spread": -66
         }
       ]
     },
     "20": {
       "id": "20",
       "name": "Sudarshan Amritha Minela",
-      "rank": 33,
+      "rank": 37,
       "wins": 0,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "spread": -200,
+      "spread": -545,
       "games": [
         {
           "round": 1,
@@ -399,17 +561,46 @@
           "score": 217,
           "oppScore": 566,
           "spread": -200
+        },
+        {
+          "round": 2,
+          "opponentId": "10",
+          "opponentName": "Nethra Bulankulame",
+          "result": "L",
+          "score": 181,
+          "oppScore": 526,
+          "spread": -345
+        }
+      ]
+    },
+    "21": {
+      "id": "21",
+      "name": "Sneha Peiris",
+      "rank": 25,
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "spread": -97,
+      "games": [
+        {
+          "round": 2,
+          "opponentId": "32",
+          "opponentName": "Kavinaya Nagules",
+          "result": "L",
+          "score": 293,
+          "oppScore": 391,
+          "spread": -97
         }
       ]
     },
     "22": {
       "id": "22",
       "name": "Insaf Shamil",
-      "rank": 6,
-      "wins": 1,
+      "rank": 8,
+      "wins": 2,
       "losses": 0,
       "ties": 0,
-      "spread": 189,
+      "spread": 191,
       "games": [
         {
           "round": 1,
@@ -419,17 +610,26 @@
           "score": 442,
           "oppScore": 253,
           "spread": 189
+        },
+        {
+          "round": 2,
+          "opponentId": "28",
+          "opponentName": "Ranlee Jayaratne",
+          "result": "W",
+          "score": 403,
+          "oppScore": 401,
+          "spread": 2
         }
       ]
     },
     "23": {
       "id": "23",
       "name": "Ravindu Fernando",
-      "rank": 14,
+      "rank": 18,
       "wins": 1,
-      "losses": 0,
+      "losses": 1,
       "ties": 0,
-      "spread": 50,
+      "spread": 13,
       "games": [
         {
           "round": 1,
@@ -439,17 +639,26 @@
           "score": 483,
           "oppScore": 433,
           "spread": 50
+        },
+        {
+          "round": 2,
+          "opponentId": "25",
+          "opponentName": "Aathif Kamil Rishard",
+          "result": "L",
+          "score": 359,
+          "oppScore": 396,
+          "spread": -37
         }
       ]
     },
     "24": {
       "id": "24",
       "name": "Tharindu Fernando",
-      "rank": 23,
-      "wins": 0,
+      "rank": 13,
+      "wins": 1,
       "losses": 1,
       "ties": 0,
-      "spread": -50,
+      "spread": 78,
       "games": [
         {
           "round": 1,
@@ -459,17 +668,26 @@
           "score": 433,
           "oppScore": 483,
           "spread": -50
+        },
+        {
+          "round": 2,
+          "opponentId": "35",
+          "opponentName": "Sitinamaluwe nandanasiri punari lehansa de silva",
+          "result": "W",
+          "score": 429,
+          "oppScore": 301,
+          "spread": 128
         }
       ]
     },
     "25": {
       "id": "25",
       "name": "Aathif Kamil Rishard",
-      "rank": 1,
-      "wins": 1,
+      "rank": 5,
+      "wins": 2,
       "losses": 0,
       "ties": 0,
-      "spread": 200,
+      "spread": 237,
       "games": [
         {
           "round": 1,
@@ -479,17 +697,26 @@
           "score": 465,
           "oppScore": 250,
           "spread": 200
+        },
+        {
+          "round": 2,
+          "opponentId": "23",
+          "opponentName": "Ravindu Fernando",
+          "result": "W",
+          "score": 396,
+          "oppScore": 359,
+          "spread": 37
         }
       ]
     },
     "26": {
       "id": "26",
       "name": "Aaqil Abdullah",
-      "rank": 8,
-      "wins": 1,
+      "rank": 9,
+      "wins": 2,
       "losses": 0,
       "ties": 0,
-      "spread": 110,
+      "spread": 175,
       "games": [
         {
           "round": 1,
@@ -499,17 +726,26 @@
           "score": 444,
           "oppScore": 334,
           "spread": 110
+        },
+        {
+          "round": 2,
+          "opponentId": "11",
+          "opponentName": "Ayansa Gunathilaka",
+          "result": "W",
+          "score": 399,
+          "oppScore": 334,
+          "spread": 65
         }
       ]
     },
     "27": {
       "id": "27",
       "name": "Sheoli Nevinka Chathurni Perera",
-      "rank": 9,
+      "rank": 23,
       "wins": 1,
-      "losses": 0,
+      "losses": 1,
       "ties": 0,
-      "spread": 105,
+      "spread": -41,
       "games": [
         {
           "round": 1,
@@ -519,17 +755,26 @@
           "score": 420,
           "oppScore": 315,
           "spread": 105
+        },
+        {
+          "round": 2,
+          "opponentId": "2",
+          "opponentName": "Janiru Jayawardhane",
+          "result": "L",
+          "score": 315,
+          "oppScore": 461,
+          "spread": -146
         }
       ]
     },
     "28": {
       "id": "28",
       "name": "Ranlee Jayaratne",
-      "rank": 16,
+      "rank": 14,
       "wins": 1,
-      "losses": 0,
+      "losses": 1,
       "ties": 0,
-      "spread": 49,
+      "spread": 47,
       "games": [
         {
           "round": 1,
@@ -539,17 +784,26 @@
           "score": 365,
           "oppScore": 316,
           "spread": 49
+        },
+        {
+          "round": 2,
+          "opponentId": "22",
+          "opponentName": "Insaf Shamil",
+          "result": "L",
+          "score": 401,
+          "oppScore": 403,
+          "spread": -2
         }
       ]
     },
     "29": {
       "id": "29",
       "name": "Maggonagei Kalan Hasmitha",
-      "rank": 23,
+      "rank": 29,
       "wins": 0,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "spread": -50,
+      "spread": -100,
       "games": [
         {
           "round": 1,
@@ -559,17 +813,26 @@
           "score": 207,
           "oppScore": 257,
           "spread": -50
+        },
+        {
+          "round": 2,
+          "opponentId": "36",
+          "opponentName": "Dinuki Nelinsa Abayakoon",
+          "result": "L",
+          "score": 126,
+          "oppScore": 176,
+          "spread": -50
         }
       ]
     },
     "30": {
       "id": "30",
       "name": "Sesadi Thesanya Thenuwara",
-      "rank": 27,
-      "wins": 0,
+      "rank": 22,
+      "wins": 1,
       "losses": 1,
       "ties": 0,
-      "spread": -77,
+      "spread": -39,
       "games": [
         {
           "round": 1,
@@ -579,17 +842,26 @@
           "score": 353,
           "oppScore": 430,
           "spread": -77
+        },
+        {
+          "round": 2,
+          "opponentId": "7",
+          "opponentName": "Anishka Gamage",
+          "result": "W",
+          "score": 382,
+          "oppScore": 344,
+          "spread": 38
         }
       ]
     },
     "31": {
       "id": "31",
       "name": "Dinuli Thihasna Wijeweera",
-      "rank": 22,
-      "wins": 0,
+      "rank": 15,
+      "wins": 1,
       "losses": 1,
       "ties": 0,
-      "spread": -49,
+      "spread": 31,
       "games": [
         {
           "round": 1,
@@ -599,17 +871,26 @@
           "score": 316,
           "oppScore": 365,
           "spread": -49
+        },
+        {
+          "round": 2,
+          "opponentId": "18",
+          "opponentName": "Akshikaa Sudharshan",
+          "result": "W",
+          "score": 374,
+          "oppScore": 294,
+          "spread": 80
         }
       ]
     },
     "32": {
       "id": "32",
       "name": "Kavinaya Nagules",
-      "rank": 12,
-      "wins": 1,
+      "rank": 10,
+      "wins": 2,
       "losses": 0,
       "ties": 0,
-      "spread": 66,
+      "spread": 164,
       "games": [
         {
           "round": 1,
@@ -619,17 +900,26 @@
           "score": 375,
           "oppScore": 309,
           "spread": 66
+        },
+        {
+          "round": 2,
+          "opponentId": "21",
+          "opponentName": "Sneha Peiris",
+          "result": "W",
+          "score": 391,
+          "oppScore": 293,
+          "spread": 98
         }
       ]
     },
     "33": {
       "id": "33",
       "name": "Neha Marso",
-      "rank": 32,
-      "wins": 0,
+      "rank": 21,
+      "wins": 1,
       "losses": 1,
       "ties": 0,
-      "spread": -189,
+      "spread": -18,
       "games": [
         {
           "round": 1,
@@ -639,17 +929,26 @@
           "score": 253,
           "oppScore": 442,
           "spread": -189
+        },
+        {
+          "round": 2,
+          "opponentId": "37",
+          "opponentName": "Eleesha Caldera",
+          "result": "W",
+          "score": 405,
+          "oppScore": 234,
+          "spread": 171
         }
       ]
     },
     "34": {
       "id": "34",
       "name": "Nethara N. Ruwanpathirana",
-      "rank": 33,
+      "rank": 36,
       "wins": 0,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "spread": -200,
+      "spread": -465,
       "games": [
         {
           "round": 1,
@@ -659,17 +958,26 @@
           "score": 301,
           "oppScore": 505,
           "spread": -200
+        },
+        {
+          "round": 2,
+          "opponentId": "9",
+          "opponentName": "Omiru Nandasiri",
+          "result": "L",
+          "score": 327,
+          "oppScore": 592,
+          "spread": -265
         }
       ]
     },
     "35": {
       "id": "35",
       "name": "Sitinamaluwe nandanasiri punari lehansa de silva",
-      "rank": 28,
+      "rank": 33,
       "wins": 0,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "spread": -90,
+      "spread": -218,
       "games": [
         {
           "round": 1,
@@ -679,17 +987,26 @@
           "score": 285,
           "oppScore": 375,
           "spread": -90
+        },
+        {
+          "round": 2,
+          "opponentId": "24",
+          "opponentName": "Tharindu Fernando",
+          "result": "L",
+          "score": 301,
+          "oppScore": 429,
+          "spread": -128
         }
       ]
     },
     "36": {
       "id": "36",
       "name": "Dinuki Nelinsa Abayakoon",
-      "rank": 33,
-      "wins": 0,
+      "rank": 26,
+      "wins": 1,
       "losses": 1,
       "ties": 0,
-      "spread": -200,
+      "spread": -150,
       "games": [
         {
           "round": 1,
@@ -699,17 +1016,26 @@
           "score": 250,
           "oppScore": 465,
           "spread": -200
+        },
+        {
+          "round": 2,
+          "opponentId": "29",
+          "opponentName": "Maggonagei Kalan Hasmitha",
+          "result": "W",
+          "score": 176,
+          "oppScore": 126,
+          "spread": 50
         }
       ]
     },
     "37": {
       "id": "37",
       "name": "Eleesha Caldera",
-      "rank": 26,
+      "rank": 34,
       "wins": 0,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "spread": -66,
+      "spread": -237,
       "games": [
         {
           "round": 1,
@@ -719,6 +1045,15 @@
           "score": 309,
           "oppScore": 375,
           "spread": -66
+        },
+        {
+          "round": 2,
+          "opponentId": "33",
+          "opponentName": "Neha Marso",
+          "result": "L",
+          "score": 234,
+          "oppScore": 405,
+          "spread": -171
         }
       ]
     }
