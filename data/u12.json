@@ -1,15 +1,15 @@
 {
   "event": "u12",
-  "updated": "2026-09-05T08:19:09.554Z",
+  "updated": "2026-09-05T08:20:19.590Z",
   "players": {
     "1": {
       "id": "1",
       "name": "SUBASH KRISHHVIN",
-      "rank": 9,
-      "wins": 1,
+      "rank": 5,
+      "wins": 2,
       "losses": 0,
       "ties": 1,
-      "spread": 119,
+      "spread": 138,
       "games": [
         {
           "round": 1,
@@ -28,17 +28,26 @@
           "score": 178,
           "oppScore": 178,
           "spread": 0
+        },
+        {
+          "round": 3,
+          "opponentId": "13",
+          "opponentName": "Dimitri Rashmera Mahabage",
+          "result": "W",
+          "score": 205,
+          "oppScore": 186,
+          "spread": 19
         }
       ]
     },
     "2": {
       "id": "2",
       "name": "C.Gimuthu Chathulya Perera",
-      "rank": 17,
-      "wins": 1,
+      "rank": 7,
+      "wins": 2,
       "losses": 1,
       "ties": 0,
-      "spread": 58,
+      "spread": 147,
       "games": [
         {
           "round": 1,
@@ -57,17 +66,26 @@
           "score": 110,
           "oppScore": 142,
           "spread": -32
+        },
+        {
+          "round": 3,
+          "opponentId": "31",
+          "opponentName": "Shayuni Weerasinghe",
+          "result": "W",
+          "score": 165,
+          "oppScore": 76,
+          "spread": 89
         }
       ]
     },
     "3": {
       "id": "3",
       "name": "W. M. Keyan Wijekoon",
-      "rank": 10,
+      "rank": 19,
       "wins": 1,
-      "losses": 0,
+      "losses": 1,
       "ties": 1,
-      "spread": 101,
+      "spread": -46,
       "games": [
         {
           "round": 1,
@@ -86,17 +104,26 @@
           "score": 178,
           "oppScore": 178,
           "spread": 0
+        },
+        {
+          "round": 3,
+          "opponentId": "21",
+          "opponentName": "Mataramba Walpita Gamage Sethuki Kisakya",
+          "result": "L",
+          "score": 120,
+          "oppScore": 267,
+          "spread": -147
         }
       ]
     },
     "4": {
       "id": "4",
       "name": "Yesali Dinaya Tennakoon",
-      "rank": 19,
-      "wins": 1,
+      "rank": 10,
+      "wins": 2,
       "losses": 1,
       "ties": 0,
-      "spread": -6,
+      "spread": 51,
       "games": [
         {
           "round": 1,
@@ -115,17 +142,26 @@
           "score": 185,
           "oppScore": 123,
           "spread": 62
+        },
+        {
+          "round": 3,
+          "opponentId": "28",
+          "opponentName": "K A M K Dihen sendinu Malaviarachchi",
+          "result": "W",
+          "score": 178,
+          "oppScore": 121,
+          "spread": 57
         }
       ]
     },
     "5": {
       "id": "5",
       "name": "Christiana Faith Coorey",
-      "rank": 32,
+      "rank": 34,
       "wins": 0,
-      "losses": 2,
+      "losses": 3,
       "ties": 0,
-      "spread": -262,
+      "spread": -392,
       "games": [
         {
           "round": 1,
@@ -144,17 +180,26 @@
           "score": 123,
           "oppScore": 185,
           "spread": -62
+        },
+        {
+          "round": 3,
+          "opponentId": "16",
+          "opponentName": "Hondamuni Duleesa Thimashi De Zoysa",
+          "result": "L",
+          "score": 194,
+          "oppScore": 324,
+          "spread": -130
         }
       ]
     },
     "6": {
       "id": "6",
       "name": "Githmi Nethumsa Bulathgama",
-      "rank": 33,
-      "wins": 0,
+      "rank": 28,
+      "wins": 1,
       "losses": 2,
       "ties": 0,
-      "spread": -294,
+      "spread": -159,
       "games": [
         {
           "round": 1,
@@ -173,17 +218,26 @@
           "score": 152,
           "oppScore": 345,
           "spread": -193
+        },
+        {
+          "round": 3,
+          "opponentId": "32",
+          "opponentName": "Dinendi Vidara Kariyawasam",
+          "result": "W",
+          "score": 225,
+          "oppScore": 90,
+          "spread": 135
         }
       ]
     },
     "7": {
       "id": "7",
       "name": "Hettigoda Kankanamge Jithum Githsara",
-      "rank": 14,
+      "rank": 23,
       "wins": 1,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "spread": 101,
+      "spread": 19,
       "games": [
         {
           "round": 1,
@@ -202,6 +256,15 @@
           "score": 232,
           "oppScore": 259,
           "spread": -27
+        },
+        {
+          "round": 3,
+          "opponentId": "23",
+          "opponentName": "Amanya Perera",
+          "result": "L",
+          "score": 208,
+          "oppScore": 290,
+          "spread": -82
         }
       ]
     },
@@ -209,10 +272,10 @@
       "id": "8",
       "name": "Aarkieth Suresh",
       "rank": 4,
-      "wins": 2,
+      "wins": 3,
       "losses": 0,
       "ties": 0,
-      "spread": 253,
+      "spread": 363,
       "games": [
         {
           "round": 1,
@@ -231,17 +294,26 @@
           "score": 552,
           "oppScore": 307,
           "spread": 245
+        },
+        {
+          "round": 3,
+          "opponentId": "33",
+          "opponentName": "Yenuli Yenara Paranagama",
+          "result": "W",
+          "score": 328,
+          "oppScore": 218,
+          "spread": 110
         }
       ]
     },
     "9": {
       "id": "9",
       "name": "Ehas Imnaka Wijethunga",
-      "rank": 2,
-      "wins": 2,
+      "rank": 3,
+      "wins": 3,
       "losses": 0,
       "ties": 0,
-      "spread": 322,
+      "spread": 404,
       "games": [
         {
           "round": 1,
@@ -260,17 +332,26 @@
           "score": 314,
           "oppScore": 192,
           "spread": 122
+        },
+        {
+          "round": 3,
+          "opponentId": "19",
+          "opponentName": "Binudi Nesansa Jayasekara",
+          "result": "W",
+          "score": 349,
+          "oppScore": 267,
+          "spread": 82
         }
       ]
     },
     "10": {
       "id": "10",
       "name": "Senudi Nehansa Manawadu",
-      "rank": 31,
+      "rank": 35,
       "wins": 0,
-      "losses": 2,
+      "losses": 3,
       "ties": 0,
-      "spread": -259,
+      "spread": -400,
       "games": [
         {
           "round": 1,
@@ -289,17 +370,26 @@
           "score": 177,
           "oppScore": 277,
           "spread": -100
+        },
+        {
+          "round": 3,
+          "opponentId": "14",
+          "opponentName": "Chenaya Lisandunee Kohomban.",
+          "result": "L",
+          "score": 167,
+          "oppScore": 308,
+          "spread": -141
         }
       ]
     },
     "11": {
       "id": "11",
       "name": "Ranulya Nadinsa Gunaratna",
-      "rank": 16,
+      "rank": 24,
       "wins": 1,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "spread": 67,
+      "spread": 1,
       "games": [
         {
           "round": 1,
@@ -318,17 +408,26 @@
           "score": 245,
           "oppScore": 130,
           "spread": 115
+        },
+        {
+          "round": 3,
+          "opponentId": "26",
+          "opponentName": "Viheli Balasooriya",
+          "result": "L",
+          "score": 329,
+          "oppScore": 395,
+          "spread": -66
         }
       ]
     },
     "12": {
       "id": "12",
       "name": "Managedara Arachchige Sanuda Sandilu",
-      "rank": 7,
+      "rank": 18,
       "wins": 2,
-      "losses": 0,
+      "losses": 1,
       "ties": 0,
-      "spread": 76,
+      "spread": -280,
       "games": [
         {
           "round": 1,
@@ -347,17 +446,26 @@
           "score": 173,
           "oppScore": 118,
           "spread": 55
+        },
+        {
+          "round": 3,
+          "opponentId": "17",
+          "opponentName": "Inudi S.W. Abeynayake",
+          "result": "L",
+          "score": 123,
+          "oppScore": 479,
+          "spread": -356
         }
       ]
     },
     "13": {
       "id": "13",
       "name": "Dimitri Rashmera Mahabage",
-      "rank": 11,
+      "rank": 20,
       "wins": 1,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "spread": 190,
+      "spread": 171,
       "games": [
         {
           "round": 1,
@@ -376,17 +484,26 @@
           "score": 345,
           "oppScore": 152,
           "spread": 193
+        },
+        {
+          "round": 3,
+          "opponentId": "1",
+          "opponentName": "SUBASH KRISHHVIN",
+          "result": "L",
+          "score": 186,
+          "oppScore": 205,
+          "spread": -19
         }
       ]
     },
     "14": {
       "id": "14",
       "name": "Chenaya Lisandunee Kohomban.",
-      "rank": 27,
-      "wins": 1,
+      "rank": 17,
+      "wins": 2,
       "losses": 1,
       "ties": 0,
-      "spread": -228,
+      "spread": -87,
       "games": [
         {
           "round": 1,
@@ -405,17 +522,26 @@
           "score": 227,
           "oppScore": 523,
           "spread": -296
+        },
+        {
+          "round": 3,
+          "opponentId": "10",
+          "opponentName": "Senudi Nehansa Manawadu",
+          "result": "W",
+          "score": 308,
+          "oppScore": 167,
+          "spread": 141
         }
       ]
     },
     "15": {
       "id": "15",
       "name": "Galappaththi Arachchige Chanara Lisari",
-      "rank": 24,
-      "wins": 1,
+      "rank": 12,
+      "wins": 2,
       "losses": 1,
       "ties": 0,
-      "spread": -86,
+      "spread": 26,
       "games": [
         {
           "round": 1,
@@ -434,17 +560,26 @@
           "score": 307,
           "oppScore": 552,
           "spread": -245
+        },
+        {
+          "round": 3,
+          "opponentId": "27",
+          "opponentName": "Thenaya Buluwana",
+          "result": "W",
+          "score": 223,
+          "oppScore": 111,
+          "spread": 112
         }
       ]
     },
     "16": {
       "id": "16",
       "name": "Hondamuni Duleesa Thimashi De Zoysa",
-      "rank": 28,
-      "wins": 0,
+      "rank": 22,
+      "wins": 1,
       "losses": 2,
       "ties": 0,
-      "spread": -50,
+      "spread": 80,
       "games": [
         {
           "round": 1,
@@ -463,17 +598,26 @@
           "score": 120,
           "oppScore": 162,
           "spread": -42
+        },
+        {
+          "round": 3,
+          "opponentId": "5",
+          "opponentName": "Christiana Faith Coorey",
+          "result": "W",
+          "score": 324,
+          "oppScore": 194,
+          "spread": 130
         }
       ]
     },
     "17": {
       "id": "17",
       "name": "Inudi S.W. Abeynayake",
-      "rank": 3,
-      "wins": 2,
+      "rank": 2,
+      "wins": 3,
       "losses": 0,
       "ties": 0,
-      "spread": 290,
+      "spread": 646,
       "games": [
         {
           "round": 1,
@@ -492,17 +636,26 @@
           "score": 336,
           "oppScore": 246,
           "spread": 90
+        },
+        {
+          "round": 3,
+          "opponentId": "12",
+          "opponentName": "Managedara Arachchige Sanuda Sandilu",
+          "result": "W",
+          "score": 479,
+          "oppScore": 123,
+          "spread": 356
         }
       ]
     },
     "18": {
       "id": "18",
       "name": "K.H.G.Ginuki Sanuthima",
-      "rank": 5,
+      "rank": 14,
       "wins": 2,
-      "losses": 0,
+      "losses": 1,
       "ties": 0,
-      "spread": 232,
+      "spread": -72,
       "games": [
         {
           "round": 1,
@@ -521,17 +674,26 @@
           "score": 142,
           "oppScore": 110,
           "spread": 32
+        },
+        {
+          "round": 3,
+          "opponentId": "22",
+          "opponentName": "AYOD NEDISA RUPARATNE",
+          "result": "L",
+          "score": 261,
+          "oppScore": 565,
+          "spread": -304
         }
       ]
     },
     "19": {
       "id": "19",
       "name": "Binudi Nesansa Jayasekara",
-      "rank": 6,
+      "rank": 9,
       "wins": 2,
-      "losses": 0,
+      "losses": 1,
       "ties": 0,
-      "spread": 177,
+      "spread": 95,
       "games": [
         {
           "round": 1,
@@ -550,17 +712,26 @@
           "score": 386,
           "oppScore": 250,
           "spread": 136
+        },
+        {
+          "round": 3,
+          "opponentId": "9",
+          "opponentName": "Ehas Imnaka Wijethunga",
+          "result": "L",
+          "score": 267,
+          "oppScore": 349,
+          "spread": -82
         }
       ]
     },
     "20": {
       "id": "20",
       "name": "SANUKI SAHANSA PANDITHA",
-      "rank": 13,
-      "wins": 1,
+      "rank": 8,
+      "wins": 2,
       "losses": 1,
       "ties": 0,
-      "spread": 102,
+      "spread": 132,
       "games": [
         {
           "round": 1,
@@ -579,17 +750,26 @@
           "score": 118,
           "oppScore": 173,
           "spread": -55
+        },
+        {
+          "round": 3,
+          "opponentId": "25",
+          "opponentName": "Reha Marso",
+          "result": "W",
+          "score": 170,
+          "oppScore": 140,
+          "spread": 30
         }
       ]
     },
     "21": {
       "id": "21",
       "name": "Mataramba Walpita Gamage Sethuki Kisakya",
-      "rank": 12,
-      "wins": 1,
+      "rank": 6,
+      "wins": 2,
       "losses": 1,
       "ties": 0,
-      "spread": 151,
+      "spread": 298,
       "games": [
         {
           "round": 1,
@@ -608,6 +788,15 @@
           "score": 338,
           "oppScore": 146,
           "spread": 192
+        },
+        {
+          "round": 3,
+          "opponentId": "3",
+          "opponentName": "W. M. Keyan Wijekoon",
+          "result": "W",
+          "score": 267,
+          "oppScore": 120,
+          "spread": 147
         }
       ]
     },
@@ -615,10 +804,10 @@
       "id": "22",
       "name": "AYOD NEDISA RUPARATNE",
       "rank": 1,
-      "wins": 2,
+      "wins": 3,
       "losses": 0,
       "ties": 0,
-      "spread": 496,
+      "spread": 800,
       "games": [
         {
           "round": 1,
@@ -637,17 +826,26 @@
           "score": 523,
           "oppScore": 227,
           "spread": 296
+        },
+        {
+          "round": 3,
+          "opponentId": "18",
+          "opponentName": "K.H.G.Ginuki Sanuthima",
+          "result": "W",
+          "score": 565,
+          "oppScore": 261,
+          "spread": 304
         }
       ]
     },
     "23": {
       "id": "23",
       "name": "Amanya Perera",
-      "rank": 21,
-      "wins": 1,
+      "rank": 11,
+      "wins": 2,
       "losses": 1,
       "ties": 0,
-      "spread": -42,
+      "spread": 40,
       "games": [
         {
           "round": 1,
@@ -666,17 +864,26 @@
           "score": 246,
           "oppScore": 336,
           "spread": -90
+        },
+        {
+          "round": 3,
+          "opponentId": "7",
+          "opponentName": "Hettigoda Kankanamge Jithum Githsara",
+          "result": "W",
+          "score": 290,
+          "oppScore": 208,
+          "spread": 82
         }
       ]
     },
     "24": {
       "id": "24",
       "name": "Kavineya Kethees",
-      "rank": 15,
+      "rank": 21,
       "wins": 1,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "spread": 83,
+      "spread": 81,
       "games": [
         {
           "round": 1,
@@ -695,17 +902,26 @@
           "score": 253,
           "oppScore": 149,
           "spread": 104
+        },
+        {
+          "round": 3,
+          "opponentId": "29",
+          "opponentName": "Shasheeni Dushanand",
+          "result": "L",
+          "score": 185,
+          "oppScore": 187,
+          "spread": -2
         }
       ]
     },
     "25": {
       "id": "25",
       "name": "Reha Marso",
-      "rank": 20,
+      "rank": 25,
       "wins": 1,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "spread": -25,
+      "spread": -55,
       "games": [
         {
           "round": 1,
@@ -724,17 +940,26 @@
           "score": 312,
           "oppScore": 137,
           "spread": 175
+        },
+        {
+          "round": 3,
+          "opponentId": "20",
+          "opponentName": "SANUKI SAHANSA PANDITHA",
+          "result": "L",
+          "score": 140,
+          "oppScore": 170,
+          "spread": -30
         }
       ]
     },
     "26": {
       "id": "26",
       "name": "Viheli Balasooriya",
-      "rank": 25,
-      "wins": 0,
+      "rank": 13,
+      "wins": 1,
       "losses": 1,
       "ties": 0,
-      "spread": -135,
+      "spread": -69,
       "games": [
         {
           "round": 2,
@@ -744,17 +969,26 @@
           "score": 250,
           "oppScore": 386,
           "spread": -135
+        },
+        {
+          "round": 3,
+          "opponentId": "11",
+          "opponentName": "Ranulya Nadinsa Gunaratna",
+          "result": "W",
+          "score": 395,
+          "oppScore": 329,
+          "spread": 66
         }
       ]
     },
     "27": {
       "id": "27",
       "name": "Thenaya Buluwana",
-      "rank": 18,
+      "rank": 26,
       "wins": 1,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "spread": 10,
+      "spread": -102,
       "games": [
         {
           "round": 1,
@@ -773,17 +1007,26 @@
           "score": 277,
           "oppScore": 177,
           "spread": 100
+        },
+        {
+          "round": 3,
+          "opponentId": "15",
+          "opponentName": "Galappaththi Arachchige Chanara Lisari",
+          "result": "L",
+          "score": 111,
+          "oppScore": 223,
+          "spread": -112
         }
       ]
     },
     "28": {
       "id": "28",
       "name": "K A M K Dihen sendinu Malaviarachchi",
-      "rank": 22,
+      "rank": 27,
       "wins": 1,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "spread": -77,
+      "spread": -134,
       "games": [
         {
           "round": 1,
@@ -802,17 +1045,26 @@
           "score": 192,
           "oppScore": 314,
           "spread": -122
+        },
+        {
+          "round": 3,
+          "opponentId": "4",
+          "opponentName": "Yesali Dinaya Tennakoon",
+          "result": "L",
+          "score": 121,
+          "oppScore": 178,
+          "spread": -57
         }
       ]
     },
     "29": {
       "id": "29",
       "name": "Shasheeni Dushanand",
-      "rank": 22,
-      "wins": 1,
+      "rank": 15,
+      "wins": 2,
       "losses": 1,
       "ties": 0,
-      "spread": -77,
+      "spread": -75,
       "games": [
         {
           "round": 1,
@@ -831,17 +1083,26 @@
           "score": 162,
           "oppScore": 120,
           "spread": 42
+        },
+        {
+          "round": 3,
+          "opponentId": "24",
+          "opponentName": "Kavineya Kethees",
+          "result": "W",
+          "score": 187,
+          "oppScore": 185,
+          "spread": 2
         }
       ]
     },
     "30": {
       "id": "30",
       "name": "F. Maryam Fulail",
-      "rank": 34,
+      "rank": 32,
       "wins": 0,
-      "losses": 2,
+      "losses": 3,
       "ties": 0,
-      "spread": -315,
+      "spread": -318,
       "games": [
         {
           "round": 1,
@@ -860,17 +1121,26 @@
           "score": 130,
           "oppScore": 245,
           "spread": -115
+        },
+        {
+          "round": 3,
+          "opponentId": "35",
+          "opponentName": "Aleena Mashood",
+          "result": "L",
+          "score": 98,
+          "oppScore": 101,
+          "spread": -3
         }
       ]
     },
     "31": {
       "id": "31",
       "name": "Shayuni Weerasinghe",
-      "rank": 32,
+      "rank": 30,
       "wins": 0,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "spread": -200,
+      "spread": -288,
       "games": [
         {
           "round": 1,
@@ -880,17 +1150,26 @@
           "score": 38,
           "oppScore": 301,
           "spread": -200
+        },
+        {
+          "round": 3,
+          "opponentId": "2",
+          "opponentName": "C.Gimuthu Chathulya Perera",
+          "result": "L",
+          "score": 76,
+          "oppScore": 165,
+          "spread": -88
         }
       ]
     },
     "32": {
       "id": "32",
       "name": "Dinendi Vidara Kariyawasam",
-      "rank": 29,
+      "rank": 33,
       "wins": 0,
-      "losses": 2,
+      "losses": 3,
       "ties": 0,
-      "spread": -220,
+      "spread": -355,
       "games": [
         {
           "round": 1,
@@ -909,17 +1188,26 @@
           "score": 137,
           "oppScore": 312,
           "spread": -175
+        },
+        {
+          "round": 3,
+          "opponentId": "6",
+          "opponentName": "Githmi Nethumsa Bulathgama",
+          "result": "L",
+          "score": 90,
+          "oppScore": 225,
+          "spread": -135
         }
       ]
     },
     "33": {
       "id": "33",
       "name": "Yenuli Yenara Paranagama",
-      "rank": 8,
+      "rank": 16,
       "wins": 2,
-      "losses": 0,
+      "losses": 1,
       "ties": 0,
-      "spread": 30,
+      "spread": -80,
       "games": [
         {
           "round": 1,
@@ -938,6 +1226,15 @@
           "score": 259,
           "oppScore": 232,
           "spread": 27
+        },
+        {
+          "round": 3,
+          "opponentId": "8",
+          "opponentName": "Aarkieth Suresh",
+          "result": "L",
+          "score": 218,
+          "oppScore": 328,
+          "spread": -110
         }
       ]
     },
@@ -973,11 +1270,11 @@
     "35": {
       "id": "35",
       "name": "Aleena Mashood",
-      "rank": 30,
-      "wins": 0,
+      "rank": 29,
+      "wins": 1,
       "losses": 2,
       "ties": 0,
-      "spread": -232,
+      "spread": -229,
       "games": [
         {
           "round": 1,
@@ -996,6 +1293,15 @@
           "score": 149,
           "oppScore": 253,
           "spread": -104
+        },
+        {
+          "round": 3,
+          "opponentId": "30",
+          "opponentName": "F. Maryam Fulail",
+          "result": "W",
+          "score": 101,
+          "oppScore": 98,
+          "spread": 3
         }
       ]
     }
